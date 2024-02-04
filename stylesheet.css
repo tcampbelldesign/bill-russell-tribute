@@ -1,0 +1,47 @@
+img {
+  position: center;
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
+
+#img-caption {
+  margin: 1em auto;
+  text-align: center;
+  font-style: italic;
+  font-size: 20px;
+}
+
+#description, #description2 {
+  margin: 1em auto;
+  text-align: center;
+  font-family: Calibri, sans-serif;
+}
+
+#title {
+  margin: 1.5em auto;
+  text-align: center;
+  font-size: 40px;
+}
+
+#description2 {
+  font-weight: bold;
+}
+
+li {
+  margin: 1em auto;
+}
+#tribute-info {
+  background-color: lightgray;
+}
+.quote {
+  margin: 2em auto;
+  text-align: center;
+  font-style: italic;
+}
+#tribute {
+  margin: 1em auto;
+  text-align: center;
+  font-size: 16px;
+  font-weight: bold;
+}
